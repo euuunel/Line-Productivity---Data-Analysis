@@ -24,6 +24,7 @@ Ultimately, this study aims to support data-driven decision-making for productiv
 **Downtime Breakdown:**
 - **Operator Errors: 56%** (e.g., Machine Adjustments, Setup Errors)
 - **Non-Operator Errors: 44%** (e.g., Machine Failures, Inventory Issues)
+![Downtime_Breakdown](Assets/Downtime_breakdown.png)
 
 **Critical Day: On September 2**
 ![September2_Dashboard](Assets/September2_breakdown.png)
