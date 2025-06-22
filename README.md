@@ -24,11 +24,13 @@ Ultimately, this study aims to support data-driven decision-making for productiv
 **Downtime Breakdown:**
 - **Operator Errors: 56%** (e.g., Machine Adjustments, Setup Errors)
 - **Non-Operator Errors: 44%** (e.g., Machine Failures, Inventory Issues)
+
 **Critical Day: On September 2**
 ![September2_Dashboard](Assets/September2_breakdown.png)
 - **503 minutes of downtime** were recorded.
 - **50.7%** of that was caused by **Machine Adjustments**, while **RB-600** and **CO-2L** were being processed.
 - **CO-2L**: Accumulated **245 minutes of total downtime** (both operator and non-operator) despite processing only **4 batches**.
+
 **OR-600 (priority product): Experienced a 100% downtime-to-volume ratio due to inefficient batch changeovers.**
 ![OR600](Assets/OR600_Breakdown.png)
 
